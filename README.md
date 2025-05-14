@@ -49,13 +49,13 @@ Hi, I’m **Sheraz Hussain**, a Graduate Software Engineer based in Dublin, Irel
 - **Web & Mobile:** HTML5 · CSS3 · Tailwind · Capacitor · Google Maps API  
 - **Databases:** PostgreSQL · Firebase Realtime Database · MySQL (GCP)  
 - **Tools & Practices:** Git & GitHub · Jupyter/Colab · Agile methodology · CI/CD pipelines
-
+<!--
 ---
 
 ## 📈 GitHub Stats
 
 [![Sheraz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=SherazHussain546&show_icons=true&theme=radical)](https://github.com/SherazHussain546)
-
+-->
 ---
 
 ## Let’s Connect
