@@ -10,7 +10,7 @@ Hi, I’m **Sheraz Hussain**, a Graduate Software Engineer based in Dublin, Irel
   AI-powered toolkit to generate ATS-optimized resumes, cover letters, and outreach emails.  
   **Tech:** Angular, Firebase, GPT-4, scikit-learn, ipywidgets.
 
-- **[ChattyAI](https://github.com/SherazHussain546/ChattyAI)**  
+- **[ChattyAI - A Conversational AI Assistant](https://github.com/SherazHussain546/ChattyAI)**  
   A lightweight ChatGPT clone for personal use, built with OpenAI API and Drizzle ORM.  
   **Tech:** TypeScript, Vite, Tailwind, SQLite/Drizzle.
 
