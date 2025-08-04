@@ -5,6 +5,9 @@ Hi, I’m **Sheraz Hussain**, a Graduate Software Engineer based in Dublin, Irel
 ---
 
 ## Featured Projects
+ - **[Market Genius - An AI-Powered Financial Signal Platform](https://github.com/SherazHussain546/Market-Genius)**  
+   An AI-powered financial signal platform that provides real-time trading insights for stocks and cryptocurrencies. It leverages generative AI to analyze market data, news, and sentiment to generate actionable buy, sell, or hold signals.
+  **Tech:** Next.js, Firebase, Gemini API, Google AI & Genkit, TypeScript, TailwindCSS, Alpha Vantage API, Crypto.com API.
 
 - **[Job4You – Your Personal AI Recruiter](https://github.com/SherazHussain546/Job4You)**  
   AI-powered toolkit to generate ATS-optimized resumes, cover letters, and outreach emails.  
