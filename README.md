@@ -3,6 +3,7 @@
 Hi, I’m **Sheraz Hussain**, a Graduate Software Engineer based in Dublin, Ireland, passionate about AI-driven automation, cloud computing, and full-stack development. Welcome to my GitHub profile—here you’ll find a curated selection of projects that showcase my technical expertise and problem-solving focus.
 
 ---
+[Sponser My Work](https://github.com/sponsors/SherazHussain546)
 
 ## Featured Projects
  - **[Market Genius - An AI-Powered Financial Signal Platform](https://github.com/SherazHussain546/Market-Genius)**  
